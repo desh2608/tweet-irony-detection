@@ -1,0 +1,3 @@
+[submodule "DeepMoji"]
+	path = DeepMoji
+	url = https://github.com/bfelbo/DeepMoji
